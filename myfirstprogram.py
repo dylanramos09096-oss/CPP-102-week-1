@@ -1,0 +1,5 @@
+print("Hello CPP102")
+print("My name is Dylan D. Ramos")
+print("The date today is june 22, 2026")
+print("My program is BSCPE")
+print("Hello world!!!")
